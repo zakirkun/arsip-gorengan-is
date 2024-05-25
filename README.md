@@ -27,13 +27,30 @@ Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementa
 
 [Status bang Alip (FO)](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1874064149683193)
 
+<details>
+    <summary>Screenshot</summary>
+
+![](./assets/images/1-1.png)
+</details>
+
 ## BAB II : Awal mula digoreng
 
 Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak bisa ngoding, namun dia tetap bangga karna baginya seorang akademis S3 Computer Science gak perlu ngoding.
-*Postingan sudah dihapus*
+
+<details>
+    <summary>Screenshot gak bisa ngoding 👈🤣🧑‍💻</summary>
+
+![](./assets/images/2-x-1.jpeg)
+</details>
 
 Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir.
 [Status bang Alip (PUB)](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1880454602377481)
+
+<details>
+    <summary>Screenshot</summary>
+
+![](./assets/images/2-1.png)
+</details>
 
 ## BAB III : Gorengan Sirkel IMPHNEN
 
@@ -45,6 +62,30 @@ Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang 
 - [Link 4 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114557746434074/)
 - [Link 5 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113878483168667/)
 
+<details>
+    <summary>Screenshot</summary>
+
+Screenshot Giorno Giovanna (Link 1)
+
+![](./assets/images/3-1.png)
+
+Screenshot Zerocrown (Link 2)
+
+![](./assets/images/3-2.png)
+
+Screenshot Keem Joung Unch (Link 3)
+
+![](./assets/images/3-3.png)
+
+Screenshot Keem Joung Unch (Link 4)
+
+![](./assets/images/3-4.png)
+
+Screenshot Rahman Hakim (Link 5)
+
+![](./assets/images/3-5.png)
+</details>
+
 ## BAB IV : Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding
 
 Karena terlalu banyak yang share, akhirnya gorengan keluar sirkel IMPHNEN. Dan akhirnya dibahas dan digoreng oleh para sepuh koding seperti:
@@ -55,6 +96,28 @@ Karena terlalu banyak yang share, akhirnya gorengan keluar sirkel IMPHNEN. Dan a
 - [Pak Muhammad Azamuddin (PUB)](https://www.facebook.com/script.holic/posts/7738703162889536)
 - [Pak Ega Radiegtya (PUB)](https://www.facebook.com/ega.radiegtya/posts/10226429400422950)
 
+<details>
+    <summary>Screenshot</summary>
+
+Screenshot Pak Eko Kurniawan K.
+
+![](./assets/images/4-1.png)
+
+Video Pak Sandhika Galih ([Klik disini](./assets/videos/4-2.mp4))
+
+Screenshot Pak Erico Darmawan Handoyo
+
+![](./assets/images/4-3.png)
+
+Screenshot Pak Muhammad Azamuddin
+
+![](./assets/images/4-4.png)
+
+Screenshot Pak Ega Radiegtya
+
+![](./assets/images/4-5.png)
+</details>
+
 ## BAB V : Gorengan sampai ke para akademisi dan guru besar
 
 Mungkin karena para praktisi sepuh koding mulai membahas dan goreng menggoreng isu ini, membuat para akademisi dan guru besar turun gunung.
@@ -63,6 +126,22 @@ Mungkin karena para praktisi sepuh koding mulai membahas dan goreng menggoreng i
 - [Pak Rinaldi Munir (PUB)](https://www.facebook.com/rinaldi.munir/posts/8020630298004925)
 - [Pak Anggi Andriyadi (PUB)](https://www.facebook.com/anggi.andriyadi/posts/10228765463594687)
 
+<details>
+    <summary>Screenshot</summary>
+
+Screenshot Pak Romi Satria Wahono
+
+![](./assets/images/5-1.png)
+
+Screenshot Pak Rinaldi Munir
+
+![](./assets/images/5-2.png)
+
+Screenshot Pak Anggi Andriyadi
+
+![](./assets/images/5-3.png)
+</details>
+
 ## BAB VI : Awal yang menjadi akhir
 
 Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R melihat isu gorengan yang kian memanas akhirnya ia juga angkat bicara.
@@ -70,11 +149,31 @@ Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R mel
 
 Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membuat klarifikasi dan ingin berhenti main FB. Tapi orang-orang mulai tidak percaya dan kurang puas dengan tindakan bapak I.S yang kurang bertanggung jawab. Ada 3 part tulisannya:
 
-- [Part 1 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196010468479)
-- [Part 2 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196147135132)
+- [Part 1 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196010468479) (**SCREENSHOT / ARCHIVE URGENTLY NEEDED**)
+- [Part 2 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196147135132) (**SCREENSHOT / ARCHIVE URGENTLY NEEDED**)
 - [Part 3 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196803801733)
 
+<details>
+    <summary>Screenshot Part 3</summary>
+
+![](./assets/images/6-x-2-1.jpeg)
+
+![](./assets/images/6-x-2-2.jpeg)
+</details>
+
 **UPDATE TERBARU:** Pak I.S sepertinya tutup akun.
+
+<details>
+    <summary>Screenshot Mba R</summary>
+
+![](./assets/images/6-1-1.png)
+
+![](./assets/images/6-1-2.png)
+
+Screenshot tambahan dari postingan Mba R:
+
+![](./assets/images/6-1-3.jpg)
+</details>
 
 ## BAB VII : Orang-orang mulai menggoreng goreng isu itu dengan bumbu yang khas
 
@@ -86,6 +185,54 @@ Pasca pak I.S menulis 3 surat terakhirnya, korban yang lain juga mulai speak up.
 - [Bang Ahmad Saugi (PUB)](https://www.facebook.com/ahmadsaugi.gis/posts/7382616251864125)
 - [Ibu Ilma Ilhami (PUB)](https://www.facebook.com/ilma.ilhami/posts/pfbid0WSRgaivhkWFNB3swbejVwvYLHVVqn3iuk4noeTK6NfdoeDT4cv82hXbJm5uLgMn8l)
 - [Rudy Qothrun Nada (PUB)](https://www.facebook.com/rudy.Qothrun/posts/pfbid02G3d6xJqHs3vKq5YEAYyHQVQ9WJRLSJvEfLZX3q6YDwqhW2wLmjgdXVzTR53wbctSl)
+
+<details>
+    <summary>Screenshot</summary>
+
+Screenshot Bang Ahmad Naziri
+
+![](./assets/images/7-1.png)
+
+Screenshot Bang Fahri Aulia Alfarisi Harahap (1)
+
+![](./assets/images/7-2-1.png)
+
+![](./assets/images/7-2-2.jpg)
+
+Screenshot Bang Fahri Aulia Alfarisi Harahap (2)
+
+![](./assets/images/7-3.png)
+
+Screenhot Bang Ahmad Saugi
+
+![](./assets/images/7-4-1.png)
+
+![](./assets/images/7-4-2.jpg)
+
+![](./assets/images/7-4-3.jpg)
+
+![](./assets/images/7-4-4.jpg)
+
+Screenhot Ibu Ilma Ilhami
+
+![](./assets/images/7-5.png)
+
+Tautan tambahan dari postingan Ibu Ilma Ilhami:
+- [Akun X @dhiyazhar](https://x.com/dhiyazhar/status/1794266564612764122)
+- [Akun X @ipb_menfess](https://x.com/ipb_menfess/status/1794281849751220403)
+
+Screenshot Rudy Qothrun Nada
+
+![](./assets/images/7-6-1.png)
+
+![](./assets/images/7-6-2.jpg)
+
+![](./assets/images/7-6-3.jpg)
+
+![](./assets/images/7-6-4.jpg)
+
+![](./assets/images/7-6-5.jpg)
+</details>
 
 ## BAB VIII : Kesimpulan
 
