@@ -2,6 +2,17 @@
 
 Izinkan saya membuat rekap drama S3.
 
+## Content
+
+1. [BAB I: Prolog](#bab-i--prolog)
+2. [BAB II: Awal mula digoreng](#bab-ii--awal-mula-digoreng)
+3. [BAB III: Gorengan Sirkel IMPHNEN](#bab-iii--gorengan-sirkel-imphnen)
+4. [BAB IV: Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding](#bab-iv--gorengan-keluar-sirkel-imphnen-dan-sampai-ke-para-praktisi-sepuh-koding)
+5. [BAB V: Gorengan sampai ke para akademisi dan guru besar](#bab-v--gorengan-sampai-ke-para-akademisi-dan-guru-besar)
+6. [BAB VI: Awal yang menjadi akhir](#bab-vi--awal-yang-menjadi-akhir)
+7. [BAB VII: Orang-orang mulai menggoreng goreng isu itu dengan bumbu yang khas](#bab-vii--orang-orang-mulai-menggoreng-goreng-isu-itu-dengan-bumbu-yang-khas)
+8. [BAB VIII: Kesimpulan](#bab-viii--kesimpulan)
+
 ## BAB I : Prolog
 
 Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementara ketika itu, pak I.S sedang berdrama dengan akun Dewa Eka Prayoga (Gatau siapa dia). Nah di postingan bang Alip, di salah satu komentar, sebenernya sudah ada clue yang agak sus mengenai pak I.S, yang kalau dibuka kartunya bakal menimbulkan kehebohan. Gw rasa, bang Alip adalah tokoh kunci dari chef penggorengan drama ini.
@@ -13,7 +24,7 @@ Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementa
 Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak bisa ngoding, namun dia tetap bangga karna baginya seorang akademis S3 Computer Science gak perlu ngoding.
 *Postingan sudah dihapus*
 
-Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir
+Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir.
 [Status bang Alip](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1880454602377481)
 
 ## BAB III : Gorengan Sirkel IMPHNEN
