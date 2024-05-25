@@ -12,15 +12,14 @@ Catatan:
 
 ## Content
 
-- [Content](#content)
-- [BAB I : Prolog](#bab-i--prolog)
-- [BAB II : Awal mula digoreng](#bab-ii--awal-mula-digoreng)
-- [BAB III : Gorengan Sirkel IMPHNEN](#bab-iii--gorengan-sirkel-imphnen)
-- [BAB IV : Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding](#bab-iv--gorengan-keluar-sirkel-imphnen-dan-sampai-ke-para-praktisi-sepuh-koding)
-- [BAB V : Gorengan sampai ke para akademisi dan guru besar](#bab-v--gorengan-sampai-ke-para-akademisi-dan-guru-besar)
-- [BAB VI : Awal yang menjadi akhir](#bab-vi--awal-yang-menjadi-akhir)
-- [BAB VII : Orang-orang mulai menggoreng goreng isu itu dengan bumbu yang khas](#bab-vii--orang-orang-mulai-menggoreng-goreng-isu-itu-dengan-bumbu-yang-khas)
-- [BAB VIII : Kesimpulan](#bab-viii--kesimpulan)
+1. [BAB I: Prolog](#bab-i--prolog)
+2. [BAB II: Awal mula digoreng](#bab-ii--awal-mula-digoreng)
+3. [BAB III: Gorengan Sirkel IMPHNEN](#bab-iii--gorengan-sirkel-imphnen)
+4. [BAB IV: Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding](#bab-iv--gorengan-keluar-sirkel-imphnen-dan-sampai-ke-para-praktisi-sepuh-koding)
+5. [BAB V: Gorengan sampai ke para akademisi dan guru besar](#bab-v--gorengan-sampai-ke-para-akademisi-dan-guru-besar)
+6. [BAB VI: Awal yang menjadi akhir](#bab-vi--awal-yang-menjadi-akhir)
+7. [BAB VII: Orang-orang mulai menggoreng goreng isu itu dengan bumbu yang khas](#bab-vii--orang-orang-mulai-menggoreng-goreng-isu-itu-dengan-bumbu-yang-khas)
+8. [BAB VIII: Kesimpulan](#bab-viii--kesimpulan)
 
 ## BAB I : Prolog
 
@@ -37,6 +36,12 @@ Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementa
 ## BAB II : Awal mula digoreng
 
 Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak bisa ngoding, namun dia tetap bangga karna baginya seorang akademis S3 Computer Science gak perlu ngoding.
+
+<details>
+    <summary>Screenshot gak bisa ngoding 👈🤣🧑‍💻</summary>
+
+![](./assets/images/2-x-1.jpeg)
+</details>
 
 Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir.
 [Status bang Alip (PUB)](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1880454602377481)
@@ -98,9 +103,7 @@ Screenshot Pak Eko Kurniawan K.
 
 ![](./assets/images/4-1.png)
 
-Video Pak Sandhika Galih
-
-![](./assets/videos/4-2.mp4)
+Video Pak Sandhika Galih ([Klik disini](./assets/videos/4-2.mp4))
 
 Screenshot Pak Erico Darmawan Handoyo
 
@@ -146,16 +149,8 @@ Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R mel
 
 Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membuat klarifikasi dan ingin berhenti main FB. Tapi orang-orang mulai tidak percaya dan kurang puas dengan tindakan bapak I.S yang kurang bertanggung jawab. Ada 3 part tulisannya:
 
-- [Part 1 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196010468479)
-
-<details>
-    <summary>Screenshot Part 1</summary>
-
-![](./assets/images/6-x-1.jpeg)
-</details>
-
+- [Part 1 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196010468479) (**SCREENSHOT / ARCHIVE URGENTLY NEEDED**)
 - [Part 2 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196147135132) (**SCREENSHOT / ARCHIVE URGENTLY NEEDED**)
-
 - [Part 3 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196803801733)
 
 <details>
