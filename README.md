@@ -1,4 +1,3 @@
-```markdown
 "Gorengan yang tidak digoreng, bukanlah gorengan namanya"
 
 Izinkan saya membuat rekap drama S3.
@@ -75,4 +74,3 @@ Beliau tutup akun.
 [Status](https://www.facebook.com/fzn0x/posts/pfbid02Js7P1hfudY2HaJgTDT4USLJQxKJXvaQ5NDu3VF9XiYqzcJa317ZsJtyCuvFKNjKzl)
 
 **Gorengannya belum selesai, kabarin di kolom komentar ini kalau ada yang goreng lagi.**
-```
