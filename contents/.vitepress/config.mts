@@ -8,6 +8,7 @@ const vitepressHelperConfig = {
 
 // https://vitepress.dev/reference/site-config
 const vitepressConfig = {
+  base: '/arsip-gorengan-is/',
   title: "Arsip Gorengan IS",
   description: "Gorengan yang tidak digoreng, bukanlah gorengan namanya",
   themeConfig: {
