@@ -30,7 +30,7 @@ Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementa
 <details>
     <summary>Screenshot</summary>
 
-![](./assets/images/1-1.png)
+![](./contents/Gorengan/assets/images/1-1.png)
 </details>
 
 ## BAB II : Awal mula digoreng
@@ -40,7 +40,7 @@ Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak 
 <details>
     <summary>Screenshot gak bisa ngoding 👈🤣🧑‍💻</summary>
 
-![](./assets/images/2-x-1.jpeg)
+![](./contents/Gorengan/assets/images/2-x-1.jpeg)
 </details>
 
 Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir.
@@ -49,7 +49,7 @@ Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kala
 <details>
     <summary>Screenshot</summary>
 
-![](./assets/images/2-1.png)
+![](./contents/Gorengan/assets/images/2-1.png)
 </details>
 
 ## BAB III : Gorengan Sirkel IMPHNEN
@@ -67,23 +67,23 @@ Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang 
 
 Screenshot Giorno Giovanna (Link 1)
 
-![](./assets/images/3-1.png)
+![](./contents/Gorengan/assets/images/3-1.png)
 
 Screenshot Zerocrown (Link 2)
 
-![](./assets/images/3-2.png)
+![](./contents/Gorengan/assets/images/3-2.png)
 
 Screenshot Keem Joung Unch (Link 3)
 
-![](./assets/images/3-3.png)
+![](./contents/Gorengan/assets/images/3-3.png)
 
 Screenshot Keem Joung Unch (Link 4)
 
-![](./assets/images/3-4.png)
+![](./contents/Gorengan/assets/images/3-4.png)
 
 Screenshot Rahman Hakim (Link 5)
 
-![](./assets/images/3-5.png)
+![](./contents/Gorengan/assets/images/3-5.png)
 </details>
 
 ## BAB IV : Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding
@@ -101,21 +101,21 @@ Karena terlalu banyak yang share, akhirnya gorengan keluar sirkel IMPHNEN. Dan a
 
 Screenshot Pak Eko Kurniawan K.
 
-![](./assets/images/4-1.png)
+![](./contents/Gorengan/assets/images/4-1.png)
 
-Video Pak Sandhika Galih ([Klik disini](./assets/videos/4-2.mp4))
+Video Pak Sandhika Galih ([Klik disini](./contents/Gorengan/assets/videos/4-2.mp4))
 
 Screenshot Pak Erico Darmawan Handoyo
 
-![](./assets/images/4-3.png)
+![](./contents/Gorengan/assets/images/4-3.png)
 
 Screenshot Pak Muhammad Azamuddin
 
-![](./assets/images/4-4.png)
+![](./contents/Gorengan/assets/images/4-4.png)
 
 Screenshot Pak Ega Radiegtya
 
-![](./assets/images/4-5.png)
+![](./contents/Gorengan/assets/images/4-5.png)
 </details>
 
 ## BAB V : Gorengan sampai ke para akademisi dan guru besar
@@ -131,15 +131,15 @@ Mungkin karena para praktisi sepuh koding mulai membahas dan goreng menggoreng i
 
 Screenshot Pak Romi Satria Wahono
 
-![](./assets/images/5-1.png)
+![](./contents/Gorengan/assets/images/5-1.png)
 
 Screenshot Pak Rinaldi Munir
 
-![](./assets/images/5-2.png)
+![](./contents/Gorengan/assets/images/5-2.png)
 
 Screenshot Pak Anggi Andriyadi
 
-![](./assets/images/5-3.png)
+![](./contents/Gorengan/assets/images/5-3.png)
 </details>
 
 ## BAB VI : Awal yang menjadi akhir
@@ -156,9 +156,9 @@ Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membu
 <details>
     <summary>Screenshot Part 3</summary>
 
-![](./assets/images/6-x-2-1.jpeg)
+![](./contents/Gorengan/assets/images/6-x-2-1.jpeg)
 
-![](./assets/images/6-x-2-2.jpeg)
+![](./contents/Gorengan/assets/images/6-x-2-2.jpeg)
 </details>
 
 **UPDATE TERBARU:** Pak I.S sepertinya tutup akun.
@@ -166,13 +166,13 @@ Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membu
 <details>
     <summary>Screenshot Mba R</summary>
 
-![](./assets/images/6-1-1.png)
+![](./contents/Gorengan/assets/images/6-1-1.png)
 
-![](./assets/images/6-1-2.png)
+![](./contents/Gorengan/assets/images/6-1-2.png)
 
 Screenshot tambahan dari postingan Mba R:
 
-![](./assets/images/6-1-3.jpg)
+![](./contents/Gorengan/assets/images/6-1-3.jpg)
 </details>
 
 ## BAB VII : Orang-orang mulai menggoreng goreng isu itu dengan bumbu yang khas
@@ -191,31 +191,31 @@ Pasca pak I.S menulis 3 surat terakhirnya, korban yang lain juga mulai speak up.
 
 Screenshot Bang Ahmad Naziri
 
-![](./assets/images/7-1.png)
+![](./contents/Gorengan/assets/images/7-1.png)
 
 Screenshot Bang Fahri Aulia Alfarisi Harahap (1)
 
-![](./assets/images/7-2-1.png)
+![](./contents/Gorengan/assets/images/7-2-1.png)
 
-![](./assets/images/7-2-2.jpg)
+![](./contents/Gorengan/assets/images/7-2-2.jpg)
 
 Screenshot Bang Fahri Aulia Alfarisi Harahap (2)
 
-![](./assets/images/7-3.png)
+![](./contents/Gorengan/assets/images/7-3.png)
 
 Screenhot Bang Ahmad Saugi
 
-![](./assets/images/7-4-1.png)
+![](./contents/Gorengan/assets/images/7-4-1.png)
 
-![](./assets/images/7-4-2.jpg)
+![](./contents/Gorengan/assets/images/7-4-2.jpg)
 
-![](./assets/images/7-4-3.jpg)
+![](./contents/Gorengan/assets/images/7-4-3.jpg)
 
-![](./assets/images/7-4-4.jpg)
+![](./contents/Gorengan/assets/images/7-4-4.jpg)
 
 Screenhot Ibu Ilma Ilhami
 
-![](./assets/images/7-5.png)
+![](./contents/Gorengan/assets/images/7-5.png)
 
 Tautan tambahan dari postingan Ibu Ilma Ilhami:
 - [Akun X @dhiyazhar](https://x.com/dhiyazhar/status/1794266564612764122)
@@ -223,15 +223,15 @@ Tautan tambahan dari postingan Ibu Ilma Ilhami:
 
 Screenshot Rudy Qothrun Nada
 
-![](./assets/images/7-6-1.png)
+![](./contents/Gorengan/assets/images/7-6-1.png)
 
-![](./assets/images/7-6-2.jpg)
+![](./contents/Gorengan/assets/images/7-6-2.jpg)
 
-![](./assets/images/7-6-3.jpg)
+![](./contents/Gorengan/assets/images/7-6-3.jpg)
 
-![](./assets/images/7-6-4.jpg)
+![](./contents/Gorengan/assets/images/7-6-4.jpg)
 
-![](./assets/images/7-6-5.jpg)
+![](./contents/Gorengan/assets/images/7-6-5.jpg)
 </details>
 
 ## BAB VIII : Kesimpulan
