@@ -35,6 +35,15 @@ Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementa
 
 ## BAB II : Awal mula digoreng
 
+Pak I.S. Tertrigger dengan komentar
+
+<details>
+    <summary>Triggering</summary>
+
+![](./assets/images/1-2.jpeg)
+</details>
+
+
 Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak bisa ngoding, namun dia tetap bangga karna baginya seorang akademis S3 Computer Science gak perlu ngoding.
 
 <details>
