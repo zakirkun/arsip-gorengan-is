@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Mulai membaca
-      link: /Gorengan
+      link: /Gorengan/0.Catatan
     
 ---
 
