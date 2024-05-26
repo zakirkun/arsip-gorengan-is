@@ -43,6 +43,11 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ 
  :root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
@@ -137,3 +142,45 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+/* Custom CSS */
+
+body {
+  font-family: 'DM Sans', sans-serif !important;
+}
+
+.link {
+  text-decoration: none !important;
+}
+
+.dark {
+  --vp-c-bg: #0f172a;
+}
+
+.VPNav {
+  &:hover {
+      z-index: 50 !important;
+
+      & > .VPNavBar {
+          @apply dark:!bg-slate-900/40;
+          background-color: rgba(255, 255, 255, .4) !important;
+
+          & > .wrapper > .container > .content > .content-body {
+              @apply bg-transparent;
+          }
+      }
+  }
+}
+
+.VPNavBar {
+  @apply !border-0 dark:!bg-slate-900/70;
+  background-color: rgba(255, 255, 255, .8) !important;
+  backdrop-filter: blur(12px);
+
+  & > .container {
+      & > .content,
+      & > .title {
+          background: color-mix(in srgb, var(--vp-c-bg) 80%, transparent);
+      }
+  }
+}
